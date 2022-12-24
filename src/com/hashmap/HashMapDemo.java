@@ -11,6 +11,7 @@ public class HashMapDemo {
 		hashMap.put("Abhishekh", 4578);
 		hashMap.put("Sanket", 4859);
 		hashMap.put("Rutik", 4756);
+		hashMap.put("Swapnil",4478);
 		
 		System.out.println(hashMap);
 	}
